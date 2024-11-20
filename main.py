@@ -4,7 +4,6 @@
 #     print('if you do so, you are insulting yourself.”')
 #     print('Bill Gates')
 #
-#
 # display_quote()
 
 # Модуль 4/1 - 2
